@@ -37,7 +37,8 @@
             $('.a-pagepiling').pagepiling({
                 scrollingSpeed: 280,
                 menu: '#menu, #menuMain',
-                anchors: ['About', 'Services', 'Skills', 'Resume', 'Portfolio', 'Testimonials', 'Weapons', 'Contact'],
+                // edit menu
+                anchors: ['About', 'Lifestyle', 'Skills', 'Resume', 'Portfolio', 'Contact'],
                 loopTop: false,
                 loopBottom: false,
                 navigation: {
